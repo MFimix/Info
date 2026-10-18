@@ -1,4 +1,4 @@
-# Hi there, I'm MFimix 👋
+# Hi there, I'm MFimix 👋 Fimix/Fimi
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Linux+%26+Hyprland+Enthusiast;Hardware+%26+Custom+Builds;Server+Administration" alt="Typing SVG" />
