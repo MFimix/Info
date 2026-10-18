@@ -10,7 +10,7 @@
 
 | Component | Main Desktop PC (Arch with CachyOS repos) | Lenovo L340-15IRH Laptop (Artix Runit) |
 | :--- | :--- | :--- |
-| **CPU** | AMD Ryzen 7 7700 OC | Intel Core i5-9300H |
+| **CPU** | AMD Ryzen 7 7700 (Undervolted and OC) | Intel Core i5-9300H |
 | **GPU** | NVIDIA GeForce RTX 5060 Ti 16GB Gainward Python III | NVIDIA GeForce GTX 1650 4GB |
 | **RAM** | G.Skill Trident Z5 RGB 32GB DDR5-6000 | 16GB DDR4 |
 | **Motherboard / Storage** | **Gigabyte Aorus X870 Elite WiFi 7** / Kingston Fury Renegade 1TB (For system) + 15 TB HDD (For Blender/other projects) + 1TB HDD | 256B NVMe SSD |
