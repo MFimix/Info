@@ -8,7 +8,7 @@
 
 ### 💻 Hardware (My personal PCs)
 
-| Component | Main Desktop PC | Lenovo L340-15IRH Laptop (Artix Runit) |
+| Component | Main Desktop PC (Arch with CachyOS repos) | Lenovo L340-15IRH Laptop (Artix Runit) |
 | :--- | :--- | :--- |
 | **CPU** | AMD Ryzen 7 7700 OC | Intel Core i5-9300H |
 | **GPU** | NVIDIA GeForce RTX 5060 Ti 16GB Gainward Python III | NVIDIA GeForce GTX 1650 4GB |
