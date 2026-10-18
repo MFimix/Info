@@ -20,7 +20,7 @@
 Got a whole bunch of other laptops(7)/PCs(3), even some laptops that are better then my main one, but he is the chosen one.
 All of that tech went through Linux Debian and running a home lab XD. Used to buy bulk and resell cleaned and repaired.
 
-No tech will even go away from my hands not cleaned/overheating/not working etc.
+No tech will ever go away from my hands not cleaned/overheating/not working etc.
 ---
 ### 🔗 Connect & Links (My ever and only user is **MFimix**)
 
