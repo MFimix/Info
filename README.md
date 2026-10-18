@@ -17,6 +17,7 @@
 | **Cooling / Display** | Arctic Liquid Freezer III 360 RGB | 15.6" FHD (1920x1080) IPS (60 hz panel was changed to a 120 hz) |
 | **Power / Battery** | DeepCool PX1200G ATX 3.0 | 45Wh Integrated Battery |
 
+No tech will even go away from my hands, every other laptop runs a server or a home lab on **Debian**
 ---
 
 ### 🛠️ Environment & Tools
