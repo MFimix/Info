@@ -87,7 +87,7 @@ No tech will ever go away from my hands not cleaned/overheating/not working etc.
 #### 🖱️ Sensitivity & Crosshair
 | Setting | Specification | Meaning |
 | :--- | :--- | :--- |
-| **DPI** | `1600 DPI` | *Fast pace of life* |
+| **DPI** | `1600 DPI` | *Fast pace of life, lack of time* |
 | **In-Game Sensitivity** | `0.621` | *Minimal human requirements, 6-hours of sleep, 2-meals a day, 1-shower a day* |
 | **eDPI** | `993 eDPI` | *Suffering...* |
 
@@ -101,7 +101,7 @@ No tech will ever go away from my hands not cleaned/overheating/not working etc.
 | **Global Shadow Quality** | Medium | Maximum enemy shadow distance |
 | **Model / Texture Detail** | Low | Clean visuals without cluttering frame buffers |
 | **Multisampling Anti-Aliasing** | 4x MSAA | Smooth edges without heavy performance loss |
-| **NVIDIA Reflex Low Latency** | Enabled + Boost | inputttttttt lag |
+| **NVIDIA Reflex Low Latency** | Enabled + Boost | [input lag](https://www.tiktok.com/@strogo_cs2/video/7682852265543093526) |
 
 <br/>
 
