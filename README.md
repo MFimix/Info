@@ -1,7 +1,7 @@
 # Hi there, I'm MFimix 👋 Fimix/Fimi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Linux+%26+Hyprland+Enthusiast;Hardware+%26+Custom+Builds;Server+Administration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Huge+tech+nerd;Linux+%26+Optimization+Enthusiast;Competitive+CS2+player+(XD);Hardware+Repair+%26+Custom+Builds;Server+%26+AI+manager" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,23 +22,40 @@ All of that tech went through Linux Debian and running a home lab XD. Used to bu
 
 No tech will even go away from my hands not cleaned/overheating/not working etc.
 ---
-
-### 🛠️ Environment & Tools
-
-- **OS:** Linux (Arch / CachyOS / Artix)
-- **Compositor:** Hyprland / Niri
-- **Terminal:** Kitty
-
----
-
-### 🔗 Connect & Links
+### 🔗 Connect & Links (My ever and only user is **MFimix**)
 
 <p align="center">
-  <a href="https://steamcommunity.com">
+  <a href="https://steamcommunity.com/id/MFimix">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="https://modrinth.com">
-    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
+  <a href="https://github.com/MFimix">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/MFimix">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/MFimix">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://youtube.com/MFimix">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://tiktok.com/MFimix">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://reddit.com/user/MFimix">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="https://roblox.com/MFimix">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+  </a>
+  <a href="https://store.epicgames.com/MFimix">
+    <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
+  </a>
+  <a href="https://xbox.com/MFimix">
+    <img src="https://img.shields.io/badge/Xbox-107C41?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
+  </a>
+  <a href="https://leetify.com/app/profile/76561199642549681">
+    <img src="https://img.shields.io/badge/Leetify-BF3B68?style=for-the-badge&logo=counterstrike&logoColor=white" alt="Leetify" />
   </a>
 </p>
-
