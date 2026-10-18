@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Hardware & Battlestation
+### 💻 Hardware (My personal PCs)
 
 | Component | Specification |
 | :--- | :--- |
