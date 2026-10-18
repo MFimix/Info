@@ -46,7 +46,7 @@ No tech will even go away from my hands not cleaned/overheating/not working etc.
   <a href="https://reddit.com/user/MFimix">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  <a href="https://roblox.com/MFimix">
+  <a href="https://www.roblox.com/users/2652376400/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
   </a>
   <a href="https://store.epicgames.com/MFimix">
