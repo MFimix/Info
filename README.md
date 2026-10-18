@@ -90,6 +90,7 @@ No tech will ever go away from my hands not cleaned/overheating/not working etc.
 | **DPI** | `1600 DPI` | *Fast pace of life, lack of time* |
 | **In-Game Sensitivity** | `0.621` | *Minimal human requirements, 6-hours of sleep, 2-meals a day, 1-shower a day* |
 | **eDPI** | `993 eDPI` | *Suffering...* |
+| **Grip** | Semi-Anchored Fingertip | *Agility*
 
 <br/>
 
