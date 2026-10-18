@@ -13,7 +13,7 @@
 | **CPU** | AMD Ryzen 7 7700 OC | Intel Core i5-9300H |
 | **GPU** | NVIDIA GeForce RTX 5060 Ti 16GB Gainward Python III | NVIDIA GeForce GTX 1650 4GB |
 | **RAM** | G.Skill Trident Z5 RGB 32GB DDR5-6000 | 16GB DDR4 |
-| **Motherboard / Storage** | Gigabyte Aorus X870 Elite WiFi 7 / Kingston Fury Renegade 1TB (For system) + 15 TB HDD (For Blender/other projects) + 1TB HDD | 256B NVMe SSD |
+| **Motherboard / Storage** | **Gigabyte Aorus X870 Elite WiFi 7** / Kingston Fury Renegade 1TB (For system) + 15 TB HDD (For Blender/other projects) + 1TB HDD | 256B NVMe SSD |
 | **Cooling / Display** | Arctic Liquid Freezer III 360 RGB | 15.6" FHD (1920x1080) IPS (60 hz panel was changed to a 120 hz) |
 | **Power / Battery** | DeepCool PX1200G ATX 3.0 | 45Wh Integrated Battery |
 
