@@ -74,3 +74,39 @@ No tech will ever go away from my hands not cleaned/overheating/not working etc.
 | 🪟 **Mousepad 2** | **ATK Sky XSoft** | High-stability, Control pad |
 | 🎧 **Audio & IEMs** | **Simgot EW300 DSP** | Dual-Driver In-Ear Monitors (Type-C / DSP) |
 | 🔊 **Amp & Processing** | **BOSS Dual Cube LX** | Stereo Desktop Modeling Amp (USB PipeWire Routing), for electric guitar |
+
+### 🎯 CS2 & System Optimization Profile
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Hybrid_AWPer_%2F_Entry-FF0055?style=for-the-badge&logo=counterstrike&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Resolution-1440x1080_(4%3A3_Stretched)-FF9900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Resolution" />
+  <img src="https://img.shields.io/badge/Audio-PipeWire_Low_Latency-00D2FF?style=for-the-badge&logo=linux&logoColor=white" alt="Audio" />
+</p>
+
+#### 🖱️ Sensitivity & Crosshair
+| Setting | Specification | Meaning |
+| :--- | :--- | :--- |
+| **DPI** | `1600 DPI` | *Fast pace of life* |
+| **In-Game Sensitivity** | `0.621` | *Minimal human requirements, 6-hours of sleep, 2-meals a day, 1-shower a day* |
+| **eDPI** | `993 eDPI` | *Suffering...* |
+
+<br/>
+
+#### 💻 Video & In-Game Graphics
+| Option | Setting | Reason / Performance Impact |
+| :--- | :--- | :--- |
+| **Aspect Ratio** | 4:3 Stretched | Broader player models, improved visibility |
+| **Resolution** | 1440 x 1080 | I prefer clarity over fps |
+| **Global Shadow Quality** | Medium | Maximum enemy shadow distance |
+| **Model / Texture Detail** | Low | Clean visuals without cluttering frame buffers |
+| **Multisampling Anti-Aliasing** | 4x MSAA | Smooth edges without heavy performance loss |
+| **NVIDIA Reflex Low Latency** | Enabled + Boost | inputttttttt lag |
+
+<br/>
+
+#### ⚡ System & OS Optimizations
+- **Audio Routing:** Ultra-low latency via **PipeWire & WirePlumber** (`buffer-size 64/128`).
+- **Compositor:** **Hyprland / Niri** configured with direct scanout to eliminate desktop latency.
+- **Kernel Tuning:** Custom gaming kernel with CPU governor set to `performance`.
+
+<br/>
