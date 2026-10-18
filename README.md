@@ -8,7 +8,7 @@
 
 ### 💻 Hardware (My personal PCs)
 
-| Component | Main Desktop PC (Arch with CachyOS repos) | Lenovo L340-15IRH Laptop (Artix Runit) |
+| Component | Main Desktop PC (Arch with CachyOS repos, INIR dots) | Lenovo L340-15IRH Laptop (Artix Runit) |
 | :--- | :--- | :--- |
 | **CPU** | AMD Ryzen 7 7700 (Undervolted and OC) | Intel Core i5-9300H |
 | **GPU** | NVIDIA GeForce RTX 5060 Ti 16GB Gainward Python III | NVIDIA GeForce GTX 1650 4GB |
@@ -59,3 +59,18 @@ No tech will ever go away from my hands not cleaned/overheating/not working etc.
     <img src="https://img.shields.io/badge/Leetify-BF3B68?style=for-the-badge&logo=counterstrike&logoColor=white" alt="Leetify" />
   </a>
 </p>
+
+---
+
+### 🎧 Peripherals & Gear
+
+| Category | Device | Key Features / Specs |
+| :--- | :--- | :--- |
+| 🖱️ **Mice** | **ATK X1 V2 Ultimate** | Ultra-lightweight, High Polling Rate |
+| | **Keychron M1** | Lightweight Ergonomic Wireless |
+| ⌨️ **Keyboards** | **Keychron K2 HE** | Magnetic Switches, Rapid Trigger, Custom Actuation |
+| | **NuPhy Field75 HE V2** | Magnetic Switches, Rapid Trigger, Low Latency |
+| 🪟 **Mousepad** | **SteelSeries QcK Performance Speed** | Low-friction Cloth Surface |
+| 🪟 **Mousepad 2** | **ATK Sky XSoft** | High-stability, Control pad |
+| 🎧 **Audio & IEMs** | **Simgot EW300 DSP** | Dual-Driver In-Ear Monitors (Type-C / DSP) |
+| 🔊 **Amp & Processing** | **BOSS Dual Cube LX** | Stereo Desktop Modeling Amp (USB PipeWire Routing), for electric guitar |
