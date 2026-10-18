@@ -10,8 +10,8 @@
 
 | Component | Specification |
 | :--- | :--- |
-| **CPU** | AMD Ryzen 7 7700 |
-| **GPU** | NVIDIA GeForce RTX 5060 Ti 16GB |
+| **CPU** | AMD Ryzen 7 7700 OC |
+| **GPU** | NVIDIA GeForce RTX 5060 Ti 16GB Gainward Python III |
 | **RAM** | G.Skill Trident Z5 RGB 32GB DDR5-6000 |
 | **Motherboard** | Gigabyte Aorus X870 Elite WiFi 7 |
 | **Cooling** | Arctic Liquid Freezer III 360 RGB |
@@ -24,7 +24,6 @@
 - **OS:** Linux (Arch / CachyOS / Artix)
 - **Compositor:** Hyprland / Niri
 - **Terminal:** Kitty
-- **Audio:** PipeWire & WirePlumber
 
 ---
 
@@ -39,8 +38,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
