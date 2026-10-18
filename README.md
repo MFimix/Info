@@ -37,7 +37,7 @@ No tech will even go away from my hands not cleaned/overheating/not working etc.
   <a href="https://t.me/MFimix">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://youtube.com/MFimix">
+  <a href="https://youtube.com/@MFimix">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://tiktok.com/MFimix">
