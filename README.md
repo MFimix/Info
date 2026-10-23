@@ -136,9 +136,19 @@ Gonna buy [Artisan Otsu V2 SOFT/MID](https://wkey.com.ua/ua/kylymky-dlia-myshi/k
 
 <br/>
 
+#### 🚀 CS2 Launch Options & Keybinds
+
+1. `prime-run %command% -novid -nojoy -w 1440 -h 1080 -fullscreen +fps_max 0 +engine_low_latency_sleep_after_client_tick true +cl_net_buffer_ticks 0 +exec autoexec.cfg`
+2. `LD_PRELOAD="" %command% -novid -nojoy -vulkan +fps_max 0 +engine_low_latency_sleep_after_client_tick true +cl_net_buffer_ticks 0 +exec autoexec.cfg`
+
+Keybinds: R-forward, F-backwards, E-left, D-right, **Shoot/Hit**-spacebar, **Jump**-scroll wheel/LMB... *uhhh do I even need to continue?*
+
+Yeah, those keybinds are pretty weird ik... but I'm a fellow Minecraft CPVPer and got used to those binds back when I was like 7 yrs old. I can give my autoexec with those binds if someone is a masochist XD. 
+
 #### ⚡ System & OS Optimizations
 - **Audio Routing:** Ultra-low latency via **PipeWire & WirePlumber** (`buffer-size 64/128`).
 - **Compositor:** **Hyprland / Niri** configured with direct scanout to eliminate desktop latency.
 - **Kernel Tuning:** Custom gaming kernel with CPU governor set to `performance`.
 
 <br/>
+
