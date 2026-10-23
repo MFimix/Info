@@ -96,8 +96,14 @@ Text me anywhere, anytime, with any tech questions; I would be happy to help!
 | | **Redragon K617** | Traveling keyboard |
 | 🪟 **Mousepad** | **SteelSeries QcK Performance Speed** | Low-friction Cloth Surface |
 | 🪟 **Mousepad 2** | **ATK Sky XSoft** | High-stability, Control pad |
-| 🎧 **Audio & IEMs** | **Simgot EW300 DSP** | Dual-Driver In-Ear Monitors (Type-C / DSP) |
+| 🎧 **Audio & IEMs** | **Simgot EW300 DSP** | Dual-Driver (Type-C / DSP), for travel, overall usage |
+| | **Simgot EM6L** | Hybrid, Gaming IEMs |
+| | **Simgot SuperMix 5** | Penta-brid, Overall PC usage |
 | 🔊 **Amp & Processing** | **BOSS Dual Cube LX** | Stereo Desktop Modeling Amp (USB PipeWire Routing), for electric guitar |
+
+**Fav, underrated companies: ATK, Simgot, Lenovo, Nuphy, Gainward, Arctic**
+
+*Worst companies(imo): Razer, Logitech, Microslop, AttackShark, Redragon, Ajazz*
 
 Gonna buy [Artisan Otsu V2 SOFT/MID](https://wkey.com.ua/ua/kylymky-dlia-myshi/kylymok-dlya-myshi-artisan-fx-hayate-otsu-v2-soft-xl-wine-red) soon. Dreaming about [Freefall Control+ v3/v2 MID](https://freefall.gg/product-category/control/) mousepad but not possible in Ukraine :/
 ### 🎯 CS2 & System Optimization Profile
