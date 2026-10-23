@@ -5,7 +5,24 @@
 </p>
 
 ---
+<details>
+<summary><b>💡 Click to reveal some fun facts about me!</b></summary>
 
+<br/>
+
+* I am from Ukraine
+* I can speak: English, Ukrainian, and Russian
+* Time zone: (GMT +2)
+* I am passionate about cybersecurity
+* Learning: German, C, Java, Lua, and Bash
+* My worst opponent is trust.
+* 🐧 **Linux Ricing:** I've spent more time customizing Wayland compositors (Hyprland / Niri) dotfiles than actually gaming on some weekends.
+* 🎧 **Audio Nerd:** I prefer DSP in-ear monitors paired with custom EQ pipelines over traditional gaming headsets.
+* ☕ **Late Night Coding:** 90% of my server scripts and modpacks were written after midnight while listening to very calm music
+
+</details>
+
+---
 ### 💻 Hardware (My personal PCs)
 
 | Component | Main Desktop PC (Arch with CachyOS repos, INIR dots) | Lenovo L340-15IRH Laptop (Artix Runit) |
