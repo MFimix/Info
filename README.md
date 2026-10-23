@@ -38,10 +38,12 @@
 | **Cooling / Display** | Arctic Liquid Freezer III 360 RGB | 15.6" FHD (1920x1080) IPS (60 hz panel was changed to a 120 hz) |
 | **Power / Battery** | DeepCool PX1200G ATX 3.0 | 45Wh Integrated Battery |
 
-Got a whole bunch of other laptops(7)/PCs(3), even some laptops that are better then my main one, but he is the chosen one.
-All of that tech went through Linux Debian and running a home lab XD. Used to buy bulk and resell cleaned and repaired.
+Got a whole bunch of other laptops(7)/PCs(3), even some laptops that are better than my main one, but he is the chosen one.
+All of that tech went through Linux Debian and running a home lab XD. Used to buy in bulk and resell cleaned and repaired.
 
-No tech will ever go away from my hands not cleaned/overheating/not working etc.
+No tech will ever go away from my hands: not cleaned/overheating/not working, etc.
+
+Text me anywhere, anytime, with any tech questions; I would be happy to help!
 ---
 ### 🔗 Connect & Links (My ever and only user is **MFimix**)
 
