@@ -17,6 +17,7 @@
 * I know where my enemies are before they do
 * Learning: German, C, Java, Lua, and Bash
 * My worst opponent is trust.
+* Got diagnosed with chronic depression; doesn't feel like it tho.
 * 🐧 **Linux Ricing:** I've spent more time customizing Wayland compositors (Hyprland / Niri) dotfiles than actually gaming on some weekends.
 * 🎧 **Audio Nerd:** I prefer DSP in-ear monitors paired with custom EQ pipelines over traditional gaming headsets.
 * ☕ **Late Night Coding:** 90% of my server scripts and modpacks were written after midnight while listening to very calm music
