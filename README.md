@@ -1,4 +1,4 @@
-# Hi there, I'm MFimix 👋 Fimix/Fimi
+# Hi there, I'm MFimix 👋 Real name: Fimix/Fimi
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Huge+tech+nerd;Linux+%26+Optimization+Enthusiast;Competitive+CS2+player+(XD);Hardware+Repair+%26+Custom+Builds;AIs+and+Vibecode+hater" alt="Typing SVG" />
