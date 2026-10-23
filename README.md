@@ -97,6 +97,7 @@ No tech will ever go away from my hands not cleaned/overheating/not working etc.
 | 🎧 **Audio & IEMs** | **Simgot EW300 DSP** | Dual-Driver In-Ear Monitors (Type-C / DSP) |
 | 🔊 **Amp & Processing** | **BOSS Dual Cube LX** | Stereo Desktop Modeling Amp (USB PipeWire Routing), for electric guitar |
 
+Gonna buy [Artisan Otsu V2 SOFT/MID](https://wkey.com.ua/ua/kylymky-dlia-myshi/kylymok-dlya-myshi-artisan-fx-hayate-otsu-v2-soft-xl-wine-red) soon. Dreaming about [Freefall Control+ v3/v2 MID](https://freefall.gg/product-category/control/) mousepad but not possible in Ukraine :/
 ### 🎯 CS2 & System Optimization Profile
 
 <p align="center">
