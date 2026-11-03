@@ -115,7 +115,7 @@ Gonna buy [Artisan Otsu V2 SOFT/MID](https://wkey.com.ua/ua/kylymky-dlia-myshi/k
   <img src="https://img.shields.io/badge/Audio-PipeWire_Low_Latency-00D2FF?style=for-the-badge&logo=linux&logoColor=white" alt="Audio" />
 </p>
 
-#### 🖱️ Sensitivity & Crosshair
+#### 🖱️ Sensitivity
 | Setting | Specification | Meaning |
 | :--- | :--- | :--- |
 | **DPI** | `1600 DPI` | *Fast pace of life, lack of time* |
