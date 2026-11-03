@@ -22,6 +22,7 @@
 * 🎧 **Audio Nerd:** I prefer DSP in-ear monitors paired with custom EQ pipelines over traditional gaming headsets.
 * ☕ **Late Night Coding:** 90% of my server scripts and modpacks were written after midnight while listening to very calm music
 * If you're scared to lose, you don't deserve to win
+* Free will is an illusion; you have already chosen everything, you just don't know it yet.
 * ʟᴏʏᴀʟᴛʏ ɪꜱ ᴀ ᴅᴇʙᴛ. ɪ’ᴠᴇ ᴘᴀɪᴅ ᴍɪɴᴇ, ɴᴏᴡ ʏᴏᴜ ᴏᴡᴇ ʏᴏᴜʀꜱ.
 
 </details>
