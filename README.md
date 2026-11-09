@@ -73,12 +73,6 @@ Text me anywhere, anytime, with any tech questions; I would be happy to help!
   <a href="https://www.roblox.com/users/2652376400/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
   </a>
-  <a href="https://store.epicgames.com/MFimix">
-    <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
-  </a>
-  <a href="https://xbox.com/MFimix">
-    <img src="https://img.shields.io/badge/Xbox-107C41?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
-  </a>
   <a href="https://leetify.com/app/profile/76561199642549681">
     <img src="https://img.shields.io/badge/Leetify-BF3B68?style=for-the-badge&logo=counterstrike&logoColor=white" alt="Leetify" />
   </a>
